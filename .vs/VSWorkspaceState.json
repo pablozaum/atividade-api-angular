@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\models",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\carros",
+    "\\src\\app\\pages\\home",
+    "\\src\\app\\pages\\motos",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\assets\\data\\db.json",
+  "PreviewInSolutionExplorer": false
+}
