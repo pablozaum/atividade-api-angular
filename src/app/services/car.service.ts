@@ -9,7 +9,7 @@ import { Car } from '../models/car';
 })
 export class CarService {
 
-  url = 'http://localhost:3000/cars'; // api rest fake
+  url = 'https://atividade-api-jsonserver.herokuapp.com:4000/motos'; // api rest fake
 
   // injetando o HttpClient
   constructor(private httpClient: HttpClient) { }
