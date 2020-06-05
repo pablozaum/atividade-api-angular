@@ -9,7 +9,7 @@ import { Moto } from '../models/moto';
 })
 export class MotoService {
 
-  url = 'https://atividade-api-jsonserver.herokuapp.com:4000/motos'; // api rest fake
+  url = 'https://atividade-api-jsonserver.herokuapp.com/motos'; // api rest fake
 
   // injetando o HttpClient
   constructor(private httpClient: HttpClient) { }
